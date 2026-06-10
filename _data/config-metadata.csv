@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
+tourSiteNumber,Tour Site Number,
 title,Title,
+address,Address,
+class,Structure Type,
+hasStylePeriod,Style Period,
 creator,Creator,
-date,Date Created,
+date,Year Constructed,
+modified,Year Modified,
+architect,Architect,
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
+location,Location,
 rights,Rights,
 rightsstatement,Rights Statement,,true
