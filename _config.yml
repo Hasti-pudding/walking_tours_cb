@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Historic Bloomington Walking Tours Photo Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Bloomington's architectural heritage
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Historic Bloomington Walking Tours Photo Collection is a digital exhibit containing my photographs of tour sites featured in the Historic Bloomington Walking Tour brochures. Additional information about the tour site such as date of construction, structure type, and description were sourced from the brochures and the 2004 City of Bloomington Interim Report"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Chase Ervin Hastings
 
 ##########
 # COLLECTION SETTINGS
