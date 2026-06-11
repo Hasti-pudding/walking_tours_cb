@@ -2,14 +2,14 @@ field,display_name,browse_link,external_link
 tourSiteNumber,Tour Site Number,
 title,Title,
 address,Address,
-class,Item Class,
-hasStylePeriod,Style Period,
+class,Item Class,,true
+hasStylePeriod,Style Period,,true
 creator,Creator,
 date,Date,
 modified,Year Modified,
-architect,Architect,
+architect,Architect,,true
 description,Description,
 subject,Subjects,true
-location,Location,
+location,Location,,true
 rights,Rights,
 rightsstatement,Rights Statement,,true
