@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
-class,,true,,Class
-hasStylePeriod,,true,,Style Period
+class,Item Class,true,,Class
+hasStylePeriod,Style Period,true,,Style Period
 date,Date,,,Date
 architect,Architect,true,,Architect
 creator,Creator,,,
