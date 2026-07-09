@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Historic Bloomington Walking Tours Photo Collection 
+title: Historic Bloomington Walking Tours Catalog 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Bloomington's architectural heritage
+tagline:
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Historic Bloomington Walking Tours Photo Collection is a digital exhibit containing my photographs of tour sites featured in the Historic Bloomington Walking Tour brochures. Additional information about the tour site such as date of construction, structure type, and description were sourced from the brochures and the 2004 City of Bloomington Interim Report"
+description: "The Historic Bloomington Walking Tours Catalog is a digital catalog listing tour sites featured in the Historic Bloomington Walking Tour brochures, allowing users to search, sort, and browse tour sites by attributes such as date, resource type, style period, and architect among others. Supplemental information was sourced from the brochures and the 2004 City of Bloomington Interim Report"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Chase Ervin Hastings
 
