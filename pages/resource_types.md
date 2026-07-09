@@ -4,3 +4,28 @@ layout: about
 permalink: /resource_types.html
 ---
 
+**Buildings**
+  Commercial buildings
+  Industrial buildings
+  Public buildings
+  Religious buildings
+  Residential buildings
+
+**Objects**
+  Clocks
+  Monuments
+  Paintings
+  Retaining walls
+  Sculptures
+  Tombstones
+  Weather vanes
+  Windows
+  
+**Recreation Areas**
+  Parks
+  
+**Structural Components**
+  Domes
+  Façades
+  Roofs
+  Rotundas
