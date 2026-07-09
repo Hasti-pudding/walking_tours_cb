@@ -7,27 +7,67 @@ permalink: /resource_types.html
 ## Resource Type Index
 
 **Buildings**
--Commercial buildings
--Industrial buildings
--Public buildings
--Religious buildings
--Residential buildings
+- American Foursquare
+- Apartment building
+- Automobile repair shop
+- Bungalow
+- Carpenter builder house
+- Central-passage house
+- Church building
+- Commercial building
+- Courthouse
+- Dormitory
+- Double pen house
+- Duplex
+- Factory
+- Filling station
+- Fraternity house
+- Gabled-ell
+- Hall and parlor house
+- House
+- I-house
+- Industrial building
+- Kit house
+- Library building
+- Mausoleum
+- Post office building
+- Public building
+- Pyramidal cottage
+- Railway station
+- Saddlebag
+- School building
+- Shotgun house
+- Sorority house
+- Theatre building
 
 **Objects**
--Clocks
--Monuments
--Paintings
--Retaining walls
--Sculptures
--Tombstones
--Weather vanes
--Windows
+- Chandelier
+- Clock
+- Monument
+- Newsletter
+- Oil painting
+- Retaining wall
+- Sculpture
+- Seal
+- Tombstone
+- Weather vane
+- Window
   
-**Recreation Areas**
--Parks
+**Public Spaces**
+- Cemetery
+- Courtroom
+- Park
   
 **Structural Elements**
--Domes
--Façades
--Roofs
--Rotundas
+- Balustrade
+- Beam
+- Building addition
+- Canopy
+- Chute
+- Dome
+- Door
+- Façade
+- Heat pipe
+- Loading dock
+- Roof
+- Rotunda
