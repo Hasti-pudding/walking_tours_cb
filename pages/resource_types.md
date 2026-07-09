@@ -4,28 +4,30 @@ layout: about
 permalink: /resource_types.html
 ---
 
+## Resource Type Index
+
 **Buildings**
-  *Commercial buildings
-  *Industrial buildings
-  *Public buildings
-  *Religious buildings
-  *Residential buildings
+  -Commercial buildings
+  -Industrial buildings
+  -Public buildings
+  -Religious buildings
+  -Residential buildings
 
 **Objects**
-  *Clocks
-  *Monuments
-  *Paintings
-  *Retaining walls
-  *Sculptures
-  *Tombstones
-  *Weather vanes
-  *Windows
+  -Clocks
+  -Monuments
+  -Paintings
+  -Retaining walls
+  -Sculptures
+  -Tombstones
+  -Weather vanes
+  -Windows
   
 **Recreation Areas**
-  *Parks
+  -Parks
   
 **Structural Components**
-  *Domes
-  *Façades
-  *Roofs
-  *Rotundas
+  -Domes
+  -Façades
+  -Roofs
+  -Rotundas
