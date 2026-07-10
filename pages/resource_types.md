@@ -20,11 +20,13 @@ permalink: /resource_types.html
 - [Carpenter builder house]
 - [Gabled-ell]
 - [Pyramidal cottage]
+
 **Industry and Commerce Buildings**
 - [Commercial building]
 - [Factory]
 - [Industrial building]
 - [Railway station]
+
 **Religious Building Types**
 - [Church building]
 
@@ -35,6 +37,7 @@ permalink: /resource_types.html
 - [Fraternity house]
 - [House]
 - [Sorority house]
+
 **Civic Buildings**
 - [Courthouse]
 - [Library building]
@@ -49,6 +52,7 @@ permalink: /resource_types.html
 - [Apartment building](https://hasti-pudding.github.io/walking_tours_cb/browse.html#Apartment%20building)
 - [Bungalow]
 - [Kit house]
+
 **Commercial Buildings**
 - [Automobile repair shop]
 - [Filling station]
