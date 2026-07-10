@@ -7,8 +7,8 @@ permalink: /resource_types.html
 ## Resource Type Index
 
 **Buildings**
-- [American Foursquare]
-- Apartment building
+- [American Foursquare](https://hasti-pudding.github.io/walking_tours_cb/browse.html#American%20Foursquare)
+- Apartment building(https://hasti-pudding.github.io/walking_tours_cb/browse.html#Apartment%20building)
 - Automobile repair shop
 - Bungalow
 - Carpenter builder house
