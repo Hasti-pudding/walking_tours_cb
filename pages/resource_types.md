@@ -7,7 +7,7 @@ permalink: /resource_types.html
 ## Resource Type Index
 
 **Buildings**
-- American Foursquare
+- [American Foursquare]
 - Apartment building
 - Automobile repair shop
 - Bungalow
