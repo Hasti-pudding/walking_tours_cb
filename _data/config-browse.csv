@@ -1,4 +1,5 @@
 field,display_name,btn,hidden,sort_name
+address,Address,,,Address
 class,Resource Type,true,,Resource Type
 hasStylePeriod,Style Period,true,,Style Period
 date,Date,,,Date
