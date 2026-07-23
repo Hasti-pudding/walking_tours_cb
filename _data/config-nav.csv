@@ -2,10 +2,10 @@ display_name,stub,dropdown_parent
 Home,/
 Tour Catalog,/browse.html
 Brochures,/brochures.html
-Resource Type Index,/resource_types.html
-Style Period Index,/style_period.html
-Locations,/locations.html
-Map,/map.html
+Resource Type Index,/resource_types.html,Index
+Style Period Index,/style_period.html,Index
+Historic Districts,/locations.html,Locations
+Map,/map.html,Locations
 Timeline,/timeline.html
 Data,/data.html
 About,/about.html
