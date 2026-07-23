@@ -11,5 +11,7 @@ architect,Architect,,true
 description,Description,
 subject,Subjects,true
 location,Location,,true
+imageSource,Image Source
+imageDate,Image Date
 rights,Rights,
 rightsstatement,Rights Statement,,true
