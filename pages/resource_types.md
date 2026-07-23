@@ -35,7 +35,6 @@ permalink: /resource_types.html
 - [Dormitory](https://hasti-pudding.github.io/walking_tours_cb/browse.html#Dormitory)
 - [Duplex](https://hasti-pudding.github.io/walking_tours_cb/browse.html#Duplex)
 - [Fraternity house](https://hasti-pudding.github.io/walking_tours_cb/browse.html#Fraternity%20house)
-- [House](https://hasti-pudding.github.io/walking_tours_cb/browse.html#House)
 - [Sorority house](https://hasti-pudding.github.io/walking_tours_cb/browse.html#Sorority%20house)
 
 **Civic Buildings**
