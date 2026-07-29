@@ -14,18 +14,25 @@ credits: true
 
 ## About this Collection
 
-This is a digitized collection of tour sites from 15 self-guided walking tour brochures produced between 2002 and 2017 by the City of Bloomington Department of Housing and Neighborhood Development. All rights to these brochures belong to the City of Bloomington Department of Housing and Neighborhood Development. The brochures were created to generate interest in prevalent architecture forms and local history in Bloomington, Indiana.
+This is a digitized collection of tour sites from 15 self-guided walking tour brochures produced between 2002 and 2017 by the City of Bloomington Department of Housing and Neighborhood Development in Bloomington, Indiana. All rights to these brochures belong to the City of Bloomington Department of Housing and Neighborhood Development. 
+
+Each brochure features a neighborhood, historic district, or community in Bloomington and includes: a short history of the neighborhood/historic district/community; a numbered list of notable structures/sites in the area with the relative address, year of construction, short bio of the site, photograph of the site; and map of the neighborhood/district with number icons indicating where each structure is located. 
 
 {% include feature/image.html objectid="coll010" width="50" %}
 
-Each brochure features a neighborhood or historic district in Bloomington and includes: a short history of the neighborhood/historic district/community; a numbered list of notable structures/sites in the area with the relative address, year of construction, short bio of the site, photograph of the site; and map of the neighborhood/district with number icons indicating where each structure is located. 
+This online catalog was created to give users additional ways to search, browse, and discover the 316 tour sites across the 15 brochures. By consolidating the tours into one accessible database and adding descriptors from the City of Bloomington Interim Report, users are able to filter tour sites by architectural style, structure type, date of construction, architect, and location. High resolution images sourced from Wikimedia, Flickr, and the author supplement each tour site. 
 
+## Related Resources
 
-This project will complement the following existing resources and organizations related to local history; historic, domestic architecture; and historic preservation in Bloomington, Indiana and broader south-central Indiana:
+If you would like to learn more about Bloomington's architectural and cultural heritage, you may consult the following existing resources and organizations related to local history; historic, domestic architecture; and historic preservation in Bloomington, Indiana and broader south-central Indiana:
 
 * City of Bloomington Interim Report, book, 2004
+  
+* Monroe County Interim Report, book, 1986
 
-* Hey Neighbor! Historical Bloomington Neighborhoods, exhibit at Monroe County History Center, 2025
+* Monroe County History Center, [website](https://monroehistory.org/)
+  
+* Monroe County Public Library Indiana Room, [website](https://mcpl.info/indiana)
 
 * Bloomington Then & Now: A Bloomington Fading Project, [website](https://bloomingtonthenandnow.wordpress.com/) 
 
@@ -33,44 +40,13 @@ This project will complement the following existing resources and organizations 
 
 * Indiana Landmarks, [website](https://www.indianalandmarks.org/)
 
-* Carrol Krause’s blog, housesandbooks, [website](https://housesandbooks.wordpress.com/)
+* Carrol Krause blog, housesandbooks, [website](https://housesandbooks.wordpress.com/)
 
 * Bloomington Restorations, Inc, [website](https://bloomingtonrestorations.org/)
 
-
-I set out to achieve the following:
-
-1. Consolidate the brochures into one accessible database where browsing, sorting, and searching individual structures/sites is possible
-
-2. Add additional descriptors for each structure/site (sourced from the City of Bloomington Interim Report, 2004)
-
-3. Implement the individual structures/sites of each brochure into an interactive map. 
-
-
-Below is an explanation of the main data elements. Elements were sourced from the brochures, City of Bloomington Interim Report, and the AFS Ethnographic Thesaurus.
-
-* __Title__: name of structure listed on brochure; address
-
-* __Tour Site Number__: number of tour site stop in brochure
-
-* __Date of Construction__: year that the structure was built listed on brochure
-
-* __Narrative__: biography of historic district/community/tour site listed on brochure
-
-* __Structure Type__: type of the structure listed on the City of Bloomington Interim Report (monuments and graves are personal additions)
-
-* __House Type__: house form/plan listed on the City of Bloomington Interim Report (Indiana Landmarks and Carrol Krause have excellent definitions of house types common to Indiana)
-
-* __Architectural Style__: style/movement of ornamentation that the structure exhibits (City of Bloomington Interim Report provides excellent biographical information on prevalent architecture styles prevalent in Bloomington and coinciding time periods
-
-* __Subjects__: general subject heading sourced from the AFS Ethnographic Thesaurus that corresponds to structure type, house type, architectural style
-
-
-While the digital collection does not fully recreate the images presented on the brochures, it is my hope that people who enjoy the physical brochures will be encouraged to learn more about Bloomington history and material culture when using this collection.
-
 ## About the Creator
 
-Chase Hastings is a graduate student at Indiana University Bloomington studying Library Science. He started this digital collection for the course ILS-Z 652 Digital Libraries in Fall 2025 with the aim to create an exhibit that contains supplementary architectural details for tour sites featured in the Bloomington Historic Walking Tour Brochures. Tour site photographs with yellow borders were taken by Hastings. 
+This online catalog was created by Chase Hastings, a graduate student at Indiana University Bloomington studying Library Science. He started this digital collection for the course ILS-Z 652 Digital Libraries in Fall 2025 with the aim to create an exhibit that contains supplementary architectural details for tour sites featured in the Bloomington Historic Walking Tour Brochures.
 
 ## About CollectionBuilder
 
