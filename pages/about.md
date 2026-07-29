@@ -50,7 +50,7 @@ If you would like to learn more about Bloomington's architectural and cultural h
 
 This online catalog was created by Chase Hastings, a graduate student at Indiana University Bloomington studying Library Science. He started this digital collection for the course ILS-Z 652 Digital Libraries in Fall 2025 with the aim to create an exhibit that contains supplementary architectural details for tour sites featured in the Bloomington Historic Walking Tour Brochures.
 
-{% include feature/image.html objectid="coll190" width="50" %}
+{% include feature/image.html objectid="coll097" width="50" %}
 
 ## About CollectionBuilder
 
