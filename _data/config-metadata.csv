@@ -13,5 +13,6 @@ subject,Subjects,true
 location,Location,,true
 imageSource,Image Source
 imageDate,Image Date
+imageRights,Image Rights
 rights,Rights,
 rightsstatement,Rights Statement,,true
