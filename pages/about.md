@@ -1,4 +1,3 @@
-CollectionBuilder about
 
 ---
 title: About
