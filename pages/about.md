@@ -44,7 +44,7 @@ If you would like to learn more about Bloomington's architectural and cultural h
 
 * Bloomington Restorations, Inc, [website](https://bloomingtonrestorations.org/)
 
-{% include feature/image.html objectid="coll196" width="50" %}
+{% include feature/image.html objectid="coll293" width="50" %}
 
 ## About the Creator
 
