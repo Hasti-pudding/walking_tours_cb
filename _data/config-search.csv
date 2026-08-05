@@ -1,9 +1,9 @@
 field,index,display
 title,true,true
+class,true,true
 date,true,true
 creator,true,false
 description,true,true
 location,true,false
-class,true,true
 hasStylePeriod,true,false
 architect,true,false
